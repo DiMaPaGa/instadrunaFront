@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574740808640",
+    "project_id": "instadruna",
+    "storage_bucket": "instadruna.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574740808640:android:eb30e4f1932e13dd523e25",
+        "android_client_info": {
+          "package_name": "com.diana7.instadruna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMy-VGyT-sQOa35K28CD2vGIWe9YXFFzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
